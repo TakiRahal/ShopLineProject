@@ -1,4 +1,24 @@
-# ShopLineProject
+# ***ShopLineProject***
+
+
+## 1) jHipster (Backend, BackOffice)
+	
+###  - Backend
+#####   - *Features*
+##### - *Technologies*
+ 
+###  - BackOffice
+
+#####   - *Features*
+##### - *Technologies*
+
+
+
+## 2) Ionic (Android, iOS)
+
+## 3) Demo
+
+
 
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
