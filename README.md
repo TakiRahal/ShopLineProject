@@ -1,15 +1,17 @@
+  
+
 # ***ShopLineProject***
 
 
 ## 1) jHipster (Backend, BackOffice)
 	
 ###  - Backend
-#####   - *Features*
+##### - *Features*
 ##### - *Technologies*
  
 ###  - BackOffice
 
-#####   - *Features*
+##### - *Features*
 ##### - *Technologies*
 
 
@@ -17,7 +19,6 @@
 ## 2) Ionic (Android, iOS)
 
 ## 3) Demo
-
 
 
 
