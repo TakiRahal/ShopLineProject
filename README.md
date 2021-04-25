@@ -12,6 +12,10 @@
 ###  - BackOffice
 
 ##### - *Features*
+###### - Users Management
+###### - Products Management
+###### - Categories Management
+
 ##### - *Technologies*
 
 
