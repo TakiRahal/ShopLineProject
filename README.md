@@ -5,12 +5,12 @@
 ## 1) jHipster (Backend, BackOffice)
 	
 ###  - Backend
-##### - *Features*
-##### - *Technologies*
+#### - *Features*
+#### - *Technologies*
 
- - [ ] Java v11
- - [ ] jHipster v7.0.1
- - [ ] SGBD: PostreSQL 13
+- Java v11
+- jHipster v7.0.1
+- [ ] SGBD: PostreSQL 13
  - [ ] Spring Boot v2.4.4
  - [ ] Maven: v3.3.9
  - [ ] Hibernate: v5.4.29
