@@ -4,7 +4,9 @@
   
   
 ## 1) jHipster (Backend, BackOffice)  
-  ###  - Backend  
+  
+###  - Backend  
+
 #### - *Features*  
 #### - *Technologies*  
   
@@ -43,7 +45,7 @@ Multilangues: English, Fresh
 
 ## 5) Author
 
-*Taki Eddine Rahal*
+*Taki Eddine Rahal*  
 *Software Engineer*
 
 **Mobile**: +21624158860
@@ -51,6 +53,8 @@ Multilangues: English, Fresh
 **Skype**: takieddinerahal  
 **Twitter**: TakiRahal
 **LinkedIn**: [https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/](https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/)  
+
+
 
 - [x] GFM task list 1
 - [x] GFM task list 2
