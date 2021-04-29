@@ -1,5 +1,4 @@
   
-
 # ***ShopLineProject***
 
 
@@ -8,22 +7,32 @@
 ###  - Backend
 ##### - *Features*
 ##### - *Technologies*
+
+Java v11
+jHipster v7.0.1
+SGBD: PostreSQL 13  
+Spring Boot v2.4.4
+Maven: v3.3.9
+Hibernate: v5.4.29
+Mapstruct
+Liquibase: v4.3.2
  
 ###  - BackOffice
 
 ##### - *Features*
-###### - Users Management
-###### - Products Management
-###### - Categories Management
-
+Multilangues: English, Fresh, Arabic
 ##### - *Technologies*
 
+Nodejs : v14.16.0
+Npm: v7.8.0
+Angular: 11
+Fontawesome: v5
+Bootstrap: v4
 
 
 ## 2) Ionic (Android, iOS)
 
 ## 3) Demo
-
 
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
