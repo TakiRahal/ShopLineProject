@@ -45,8 +45,6 @@ Multilangues: English, Fresh
 
 ## 5) Author
 
-Heril Muratović  
-Software Engineer
 
 *Taki Eddine Rahal*  
 *Software Engineer*
