@@ -41,6 +41,16 @@ Multilangues: English, Fresh
   
 ## 4) Demo
 
+## 5) Author
+
+*Taki Eddine Rahal*
+*Software Engineer*
+
+**Mobile**: +21624158860
+**E-mail**: [takieddinerahal@gmail.com](mailto:takieddinerahal@gmail.com)  
+**Skype**: takieddinerahal  
+**Twitter**: TakiRahal
+**LinkedIn**: [https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/](https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/)  
 
 - [x] GFM task list 1
 - [x] GFM task list 2
