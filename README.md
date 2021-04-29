@@ -1,4 +1,3 @@
-    
 
 # ***ShopLineProject***
 
@@ -34,40 +33,6 @@ Multilangues: English, Fresh
 ## 2) Ionic (Android, iOS)
 
 ## 3) Demo
-
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-
-
- ***ShopLineProject***
-
-
-## 1) jHipster (Backend, BackOffice)
-	
-
- - Backend
- - BackOffice
-
-## 2) Ionic (Android, iOS)
-
-## 3) Demo
-
-**Table of Contents**
- 
- 
- - [ ] ## jHipster (Backend, BackOffice)
-     - [ ] ### _Backend_
-     - [ ] ### _BackOffice_
-    
-    
-    
- - [ ] ## Ionic (Android, iOS)
- 
-
- - [ ] ## Demo
 
 
 - [x] GFM task list 1
