@@ -10,25 +10,23 @@
 
 - Java v11
 - jHipster v7.0.1
-- [ ] SGBD: PostreSQL 13
- - [ ] Spring Boot v2.4.4
- - [ ] Maven: v3.3.9
- - [ ] Hibernate: v5.4.29
- - [ ] Mapstruct
- - [ ] Liquibase: v4.3.2
+- SGBD: PostreSQL 13
+- Spring Boot v2.4.4
+- Maven: v3.3.9
+- Hibernate: v5.4.29
 
  
 ###  - BackOffice
 
-##### - *Features*
+#### - *Features*
 Multilangues: English, Fresh
-##### - *Technologies*
+#### - *Technologies*
 
- - [ ] Nodejs : v14.16.0
- - [ ] Npm: v7.8.0
- - [ ] Angular: 11
- - [ ] Fontawesome: v5
- - [ ] Bootstrap: v4
+- Nodejs : v14.16.0
+- Npm: v7.8.0
+- Angular: 11
+- Fontawesome: v5
+- Bootstrap: v4
 
 ## 2) Ionic (Android, iOS)
 
