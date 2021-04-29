@@ -36,14 +36,17 @@ Multilangues: English, Fresh
 
   
 
-> - ./mvnw -Pprod verify jib:dockerBuild
+> - `./mvnw -Pprod verify jib:dockerBuild`
 > 
-> - docker-compose -f src/main/docker/app.yml up -d
+> - `docker-compose -f src/main/docker/app.yml up -d`
 
   
 ## 4) Demo
 
 ## 5) Author
+
+Heril Muratović  
+Software Engineer
 
 *Taki Eddine Rahal*  
 *Software Engineer*
@@ -53,7 +56,6 @@ Multilangues: English, Fresh
 **Skype**: takieddinerahal  
 **Twitter**: TakiRahal
 **LinkedIn**: [https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/](https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/)  
-
 
 
 - [x] GFM task list 1
