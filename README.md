@@ -1,7 +1,13 @@
 
   
-# ***ShopLineProject***  
-  
+# ***ShopLine Project***  
+
+
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
+
   
 ## 1) jHipster (Backend, BackOffice)  
   
@@ -10,8 +16,8 @@
 #### - *Features*  
 #### - *Technologies*  
   
-- Java v11  
-- jHipster v7.0.1  
+- Java v8  
+- jHipster v6.10.5  
 - SGBD: PostreSQL 13  
 - Spring Boot v2.4.4  
 - Maven: v3.3.9  
