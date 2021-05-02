@@ -63,7 +63,7 @@ Full code source, please send for me mail (to: takieddinerahal@gmail.com)
 ## 3) Dockerizing Application   
     
 > - `./mvnw -Pprod verify jib:dockerBuild`  
-> > - `docker-compose -f src/main/docker/app.yml up -d`  
+> - `docker-compose -f src/main/docker/app.yml up -d`  
   
 ## 4) Demo  
   
