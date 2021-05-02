@@ -10,7 +10,8 @@ Full code source, please send for me mail (to: takieddinerahal@gmail.com)
   
     
 ## 1) jHipster (Backend, BackOffice)    
- ###  - Backend - User Management REST API (register, login, account ...)  
+ ###  - Backend 
+- User Management REST API (register, login, account ...)  
 - Product Management REST API (CRUD Product)  
 - Category Management REST API (CRUD Category)  
 - Payment Management REST API  
