@@ -35,8 +35,8 @@ Flexible, extensible and secure, this architecture can be the perfect solution f
 - Log Managment UI  
   
 #### - *Technologies*    
- - Nodejs : v14.16.0    
-- Npm: v7.8.0    
+- Nodejs : v12.16.1  
+- Npm: v6.14.5
 - Angular: 11    
 - Fontawesome: v5    
 - Bootstrap: v4    
@@ -54,8 +54,7 @@ Flexible, extensible and secure, this architecture can be the perfect solution f
   
 *Taki Eddine Rahal* *Software Engineer*  
   
-**Mobile**: +21624158860 
-
+**Mobile**: +21624158860  
 **E-mail**: [takieddinerahal@gmail.com](mailto:takieddinerahal@gmail.com)    
 **Skype**: takieddinerahal    
 **Twitter**: TakiRahal  
