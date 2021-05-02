@@ -9,7 +9,10 @@
 ## 1) jHipster (Backend, BackOffice)  
   
 ###  - Backend  
-
+- User Management REST API (register, login, account ...)
+- Product Management REST API (CRUD Product)
+- Category Management REST API (CRUD Category)
+- Notification (Send PushNotificatin for real time)
 #### - *Features*  
 #### - *Technologies*  
   
