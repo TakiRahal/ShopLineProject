@@ -2,7 +2,8 @@
   
 # ***ShopLine Project***  
 
-ShopLine (Shopping Online) which aims to expose digital services via web and mobile application
+ShopLine (Shopping Online) which aims to expose digital services via web and mobile application for any projecte ecommerce,
+Flexible, extensible and secure, 
 
 ![](https://github.com/TakiRahal/ShopLineProject/blob/main/EcommerceMobile/src/assets/imgs/logo.png)
 
