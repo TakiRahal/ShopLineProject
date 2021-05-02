@@ -3,7 +3,8 @@
     
 # ***ShopLine Project***   
 ShopLine (Online Shopping) which aims to expose a digital services via web and mobile application for any project E-commerce.  
-Flexible, extensible and secure, this architecture can be the perfect solution for start your project  
+Flexible, extensible and secure, this architecture can be the perfect solution for start your project 
+Full code source, please send for me mail (to: takieddinerahal@gmail.com) 
   
 ![](https://github.com/TakiRahal/ShopLineProject/blob/main/EcommerceMobile/src/assets/imgs/logo.png)  
   
@@ -24,7 +25,7 @@ Flexible, extensible and secure, this architecture can be the perfect solution f
     
      
 ###  - BackOffice    
- #### - *Features* 
+#### - *Features* 
 
 >  With Multilangues language: English, Fresh && Arabic
 
@@ -41,18 +42,35 @@ Flexible, extensible and secure, this architecture can be the perfect solution f
 - Fontawesome: v5    
 - Bootstrap: v4    
     
-## 2) Ionic (Android, iOS)    
- ## 3) Dockerizing Application   
+## 2) Ionic (Android, iOS)  
+#### - *Features* 
+
+- User module (Register, login, account, update informations, update password, ...)
+- Product module (List my products, Add new product, Edit my product, delete product, detail product)
+- Category module (List all category  with pagination)  
+- Public module (Contact-us, Settings, About, Home, ...)
+- Mock module (Youn can try to login with static data)
+  
+#### - *Technologies*    
+- Ionic : v5 
+- Angular: 11   
+- NgRx: v11
+- Cordova: v9
+- Android Studio
+- Xcode 
+- Fontawesome: v5    
+  
+## 3) Dockerizing Application   
     
 > - `./mvnw -Pprod verify jib:dockerBuild`  
 > > - `docker-compose -f src/main/docker/app.yml up -d`  
   
-  ## 4) Demo  
+## 4) Demo  
   
 ## 5) Author  
   
-  
-*Taki Eddine Rahal* *Software Engineer*  
+*Taki Eddine Rahal*  
+*Software Engineer*  
   
 **Mobile**: +21624158860  
 **E-mail**: [takieddinerahal@gmail.com](mailto:takieddinerahal@gmail.com)    
