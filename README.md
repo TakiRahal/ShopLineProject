@@ -18,12 +18,14 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
     
       
 ## 1) jHipster (Backend, BackOffice)      
-###  - Backend - User Management REST API (Register, Login, Account, Forgot password, Activate account,Get user by id ...)    
+###  - Backend 
+#### - *Features* 
+- User Management REST API (Register, Login, Account, Forgot password, Activate account,Get user by id ...)    
 - Product Management REST API (Create new Product, Delete product by id, Get details product, Get all products, ...)    
 - Category Management REST API (Create new Category, Delete category by id, Get details category, Get all categories, ...)    
 - Payment Management REST API    
 - Notification (Send PushNotificatin for real time)    
-#### - *Features* #### - *Technologies*      
+#### - *Technologies*      
 - Java v8      
 - jHipster v6.10.5      
 - SGBD: PostreSQL 13      
@@ -32,12 +34,14 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
 - Hibernate: v5.4.15      
       
        
-###  - BackOffice #### - *Features*   
->  With Multilangues language: English, Fresh && Arabic  
+###  - BackOffice 
+#### - *Features*   
+>  Support Multiple Language: English, Frensh && Arabic  
   
-  - User Management UI (List, Details user, Add, Delete user)    
+- User Management UI (List, Details user, Add, Delete user)    
 - Product Managment UI (List, Details product, Addd, Delete product)    
-- Category Managment UI (List, Details category, Add, Delete category)    
+- Category Managment UI (List, Details category, Add, Delete category)   
+- Role Users 
 - Log Managment UI    
     
 #### - *Technologies* - Nodejs : v12.16.1    
@@ -46,24 +50,29 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
 - Fontawesome: v5      
 - Bootstrap: v4      
       
-## 2) Ionic (Android, iOS) #### - *Features*   
+## 2) Mobile Ionic (Android, iOS) 
+#### - *Features*   
 - User module (Register, login, account, update informations, update password, ...)  
 - Product module (List my products, Add new product, Edit my product, delete product, detail product)  
 - Category module (List all category  with pagination)    
 - Public module (Contact-us, Settings, About, Home, ...)  
 - Mock module (Youn can try to login with static data)  
     
-#### - *Technologies* - Ionic : v5   
+#### - *Technologies* 
+- Ionic : v5   
 - Angular: 11     
 - NgRx: v11  
-- Cordova: v9  
+- Cordova: v10  
 - Android Studio  
 - Xcode   
 - Fontawesome: v5      
     
 ## 3) Dockerizing Application     
- > - `./mvnw -Pprod verify jib:dockerBuild` > - `docker-compose -f src/main/docker/app.yml up -d`    
+ > - `./mvnw -Pprod verify jib:dockerBuild` 
+ > - `docker-compose -f src/main/docker/app.yml up -d`    
+ 
  ## 4) Demo    
+ 
  ## 5) Author    
  *Taki Eddine Rahal* *Software Engineer*    
  **Mobile**: +21624158860    
