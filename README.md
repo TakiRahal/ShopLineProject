@@ -76,6 +76,7 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
 ## 5) Author    
 *Taki Eddine Rahal* 
 *Software Engineer* 
+ 
 **Mobile**: +21624158860    
 **E-mail**: [takieddinerahal@gmail.com](mailto:takieddinerahal@gmail.com)      
 **Skype**: takieddinerahal      
