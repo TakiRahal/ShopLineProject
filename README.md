@@ -14,7 +14,7 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
 > Full code source, please send me an email:
 > takieddinerahal@gmail.com
 
-> My Youtub channel
+> My Youtub channel:
 > https://www.youtube.com/channel/UCdGytgjCyMv2QqQrjuWiDJg
 
     
@@ -85,5 +85,5 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
 **E-mail**: [takieddinerahal@gmail.com](mailto:takieddinerahal@gmail.com)      
 **Skype**: takieddinerahal      
 **Twitter**: TakiRahal    
-**LinkedIn**: [https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/](https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/)
+**LinkedIn**: [https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/](https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/) 
 **My Youtub channel:**  https://www.youtube.com/channel/UCdGytgjCyMv2QqQrjuWiDJg
