@@ -6,6 +6,7 @@
 
 ShopLine (Online Shopping) which aims to expose a digital services via web and mobile application for any project E-commerce.
 Flexible, extensible and secure, this architecture can be the perfect solution for start your commerce project.  
+The Shopline system will allow our websites visitors and mobile application (Android/iOS) to browse for products, add to cart products, and place orders.
 The  code  source  contains  these  principals  modules: user managment, product managment, category managment and payment online  
 We can also, add another multiples modules (Like : Chat real time, Notification, Google Map/Analytics, ELK(ElastciSearch, Logstash, Kibana))  
   
