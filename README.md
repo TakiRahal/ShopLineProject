@@ -6,13 +6,16 @@
 
 ShopLine (Online Shopping) which aims to expose a digital services via web and mobile application for any project E-commerce.
 Flexible, extensible and secure, this architecture can be the perfect solution for start your commerce project.  
-The Shopline system will allow our websites visitors and mobile application (Android/iOS) to browse for products, add to cart products, and place orders.
+The Shopline system will allow our websites visitors and mobile applications (Android/iOS) to browse for products, add to cart products, and place orders.
 The  code  source  contains  these  principals  modules: user managment, product managment, category managment and payment online  
 We can also, add another multiples modules (Like : Chat real time, Notification, Google Map/Analytics, ELK(ElastciSearch, Logstash, Kibana))  
   
 
 > Full code source, please send me an email:
-> takieddinerahal@gmail.com)
+> takieddinerahal@gmail.com
+
+> My Youtub channel
+> https://www.youtube.com/channel/UCdGytgjCyMv2QqQrjuWiDJg
 
     
 ![](https://github.com/TakiRahal/ShopLineProject/blob/main/EcommerceMobile/src/assets/imgs/logo.png)    
@@ -83,3 +86,4 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
 **Skype**: takieddinerahal      
 **Twitter**: TakiRahal    
 **LinkedIn**: [https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/](https://www.linkedin.com/in/rahal-taki-eddine-51952ba4/)
+**My Youtub channel:**  https://www.youtube.com/channel/UCdGytgjCyMv2QqQrjuWiDJg
