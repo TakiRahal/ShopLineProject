@@ -81,7 +81,7 @@ Demo for Backend and Backoffice for ShopLine project:
 [https://www.youtube.com/watch?v=Za2_RyxyerA&t=23s] 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/ShopLineProject/blob/main/EcommerceMobile/src/assets/imgs/Screen.PNG)](https://www.youtube.com/watch?v=Za2_RyxyerA&t=23s)
 
 
 ## 5) Author    
