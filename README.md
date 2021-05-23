@@ -77,8 +77,8 @@ We can also, add another multiples modules (Like : Chat real time, Notification,
  
 ## 4) Demo   
 
-Demo for Backend and Backoffice for ShopLine project.
-https://www.youtube.com/watch?v=Za2_RyxyerA&t=23s 
+Demo for Backend and Backoffice for ShopLine project: 
+[https://www.youtube.com/watch?v=Za2_RyxyerA&t=23s] 
 
 ## 5) Author    
 *Taki Eddine Rahal*     
