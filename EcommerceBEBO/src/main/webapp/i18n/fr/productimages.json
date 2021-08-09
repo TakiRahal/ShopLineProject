@@ -1,0 +1,24 @@
+{
+  "ecommerceBackendApp": {
+    "productimages": {
+      "home": {
+        "title": "Productimages",
+        "createLabel": "Créer un nouveau Productimages",
+        "createOrEditLabel": "Créer ou éditer un Productimages",
+        "notFound": "Aucun Productimages trouvé"
+      },
+      "created": "Un nouveau Productimages a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Productimages avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Productimages avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Productimages {{ id }} ?"
+      },
+      "detail": {
+        "title": "Productimages"
+      },
+      "path": "Path",
+      "createDate": "Create Date",
+      "product": "Product"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.error-form-control{
+  ion-label{
+    color: #e41e1e !important;
+  }
+}
+
+
+app-preload-image{
+  ion-img::part(image) {
+    object-fit: cover !important;
+  }
+}
+
+.ion-slides-home{
+  .swiper-pagination-bullets{
+    bottom: 60px !important;
+  }
+}
+
+.btn-danger{
+  color: #eb445a !important;
+}
+
+.btn-pink{
+  color: #ffa7b7 !important;;
+}
+
+.btn-purple{
+  color: #7f077f !important;;
+}

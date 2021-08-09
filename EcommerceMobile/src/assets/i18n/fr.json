@@ -1,0 +1,114 @@
+{
+  "COMMON": {
+    "SEND": "Envoyer",
+    "CANCEL": "Annuler",
+    "DELETE": "Supprimer"
+  },
+  "PUBLIC": {
+    "MENU": {
+      "LABEL_AUTHENTICATED": "Se connecter",
+      "HOME_MENU": "Accueil",
+      "ADD_PRODUCT_MENU": "Ajouter produit",
+      "MY_PRODUCTS_MENU": "Mes produits",
+      "MY_FAVORITES_MENU": "Mes favoris",
+      "SEARCH_PRODUCTS_MENU": "Recherche",
+      "SETTINGS_MENU": "Paramètres",
+      "CONTACT_US_MENU": "Contactez-nous",
+      "ABOUT_MENU": "À propos"
+    },
+    "HOME": {
+      "TITLE": "Accueil"
+    },
+    "REGISTER": {
+      "TITLE": "Inscription",
+      "FORM_USERNAME": "Nom d'utilisateur",
+      "FORM_EMAIL": "Email",
+      "FORM_PASSWORD": "Mot de passe",
+      "FORM_CONF_PASSWORD": "Confirmation du mot de passe",
+      "LABEL_REGISTER": "Inscription",
+      "LABEL_LOGIN": "Se connecter",
+      "SUCCESS": "Succès",
+      "REGISTER_SUCCESS": "Inscription avec succès, merci de consulter votre boite d'adresse pour activer votre compte"
+    },
+    "LOGIN": {
+      "TITLE": "Se connecter",
+      "EMAIL_USERNAME": "Email/Nom",
+      "PASSWORD": "Mot de passe",
+      "LOGIN": "LogIn",
+      "FORGOT_PASSWORD": "Mot de passe oublié",
+      "REGISTER": "Inscription",
+      "GOOGLE_PLUS": "Google Plus",
+      "FACEBOOK": "Facebook"
+    },
+    "SETTINGS": {
+      "TITLE": "Parametres",
+      "HEADER_LANGUAGE": "Sélection de la langue",
+      "LANGUAGE_LABEL": "Language",
+      "PLACEHODER_LANGUAGE": "Selectionner",
+      "LANGUAGE_EN": "Anglais",
+      "LANGUAGE_FR": "Francais"
+    },
+    "SEARCH": {
+      "TITLE": "Recherche",
+      "LABEL_TAB_LIST": "Liste",
+      "LABEL_TAB_CAT": "Categories",
+      "LABEL_ORDER_LIST": "Ordre",
+      "LABEL_FILTER_LIST": "Filtrer",
+      "LABEL_RESULT_LIST": "Resultat"
+    },
+    "CONTACT_US": {
+      "TITLE": "Contactez-nous",
+      "DESC_CONTACT_US": "N'heziter pas à nous contacter en cas de problème avec le site web ou l'application mobile (Android/iOS),si vous avez des suggestions ou des propositions."
+    },
+    "ABOUT": {
+      "TITLE": "À propos",
+      "RATE": "Rate",
+      "GENERAL_INFOS": "Informations Générales",
+      "VERSION": "Version",
+      "AVAILABLE": "Valable",
+      "FEED_BACK": "Rétroaction",
+      "REALISE": "Realized by",
+      "WEB_SITE": "Site Web",
+      "FOLLOW": "Suivez-nous sur Facebook",
+      "UPDATE_APP": "Mettre à jours"
+    },
+    "DETAILS_PRODUCT": {
+      "TITLE": "Details produit",
+      "REVIEW_RATINGS": "Voir les avis et évaluations",
+      "COLOR": "Couleur",
+      "SIZE": "Taille"
+    }
+  },
+  "PRIVATE": {
+    "ADD_PRODUCT": {
+      "TITLE": "Ajout produit",
+      "LIST_CATEGORIES_LABEL": "Liste des categories",
+      "CATEGORIES_LABEL": "Categories",
+      "PLACEHODER_CATEGORIES": "Selectionner",
+      "BTN_ADD_PRODUCT": "Ajouter"
+    },
+    "ACCOUNT": {
+      "TITLE": "Mon compte",
+      "LOGOUT": "Se déconnecter",
+      "MESSAGE_LOGOUT": "Voulez vous vraiment vous déconnecter",
+      "FIRSTNAE":"Prénom",
+      "LASTNAME": "Nom",
+      "GENDER": "Sexe",
+      "BIRTHDAY": "Date de naissance",
+      "ADRESSE": "Adresse"
+    },
+    "MY_PRODUCTS": {
+      "TITLE": "Mes produits"
+    },
+    "MY_FAVORITES": {
+      "TITLE": "Mes favoris"
+    },
+    "CART": {
+      "TITLE": "Panier",
+      "REMOVE_FROM_LIST": "Retirer de la liste"
+    }
+  },
+  "FORM_ERROR_MESSAGES": {
+    "REQUIRED": "C'est un champ obligatoire!"
+  }
+}

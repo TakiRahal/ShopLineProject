@@ -1,0 +1,24 @@
+{
+  "ecommerceBackendApp": {
+    "productimages": {
+      "home": {
+        "title": "Productimages",
+        "createLabel": "Create a new Productimages",
+        "createOrEditLabel": "Create or edit a Productimages",
+        "notFound": "No Productimages found"
+      },
+      "created": "A new Productimages is created with identifier {{ param }}",
+      "updated": "A Productimages is updated with identifier {{ param }}",
+      "deleted": "A Productimages is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Productimages {{ id }}?"
+      },
+      "detail": {
+        "title": "Productimages"
+      },
+      "path": "Path",
+      "createDate": "Create Date",
+      "product": "Product"
+    }
+  }
+}
